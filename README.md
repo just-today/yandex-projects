@@ -3,7 +3,7 @@
 <tr>
 <th>Название проекта</th>
 <th>Описание</th>
-<th>Навыки и инструменты/th>
+<th>Навыки и инструменты</th>
 </tr>
 <tr>
 <td><a href="https://github.com/just-today/yandex-projects/tree/main/games">Исследование рынка компьютерных игр</a></td>
